@@ -1,0 +1,9 @@
+﻿@{
+<<<<<<< HEAD
+    ViewBag.Title = "abc1";
+=======
+    ViewBag.Title = "abc0";
+>>>>>>> 7472104df841c27e83c4c0b8c36ebc04ceff44d7
+}
+
+<h2>abc</h2>
